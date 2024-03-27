@@ -25,7 +25,7 @@ VALUES
 INSERT INTO PRODUTOS
 VALUES
 ( NULL, 'Teste', 5.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 100 ),
-( NULL, 'Teste1', 6.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 200 ),
+( NULL, 'Teste1', 6.90, 'Lorem ipsum dolor sit ameta consectetur adipisicing elit.', 200 ),
 ( NULL, 'Teste2', 7.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 300 ),
 ( NULL, 'Teste3', 8.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 400 ),
 ( NULL, 'Teste4', 9.90, 'Lorem ipsum dolor sit amet consectetur adipisicing elit.', 500 ),
